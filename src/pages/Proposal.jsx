@@ -82,7 +82,7 @@ const Proposal = ({ className = '' }) => {
 
                             {currentText.id === 'finished' && reply && (
                                 <Button variant="danger" href={reply} target="_blank">
-                                    Reply Back
+                                    CLICK HERE
                                 </Button>
                             )}
                         </div>
